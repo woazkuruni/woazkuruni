@@ -1,64 +1,59 @@
 <!-- =========================================================
-                    GITHUB PROFILE README
+                    WOAZ KURUNI
+                GITHUB PROFILE README
 ========================================================= -->
 
 
-<!-- =========================
-              BANNER
-========================= -->
+<!-- =========================================================
+                  BANNER + ATTACHED WAVE
+========================================================= -->
 
-<p align="center">
-  <img
-    src="./assets/github-profile-banner.png"
-    alt="Developer Profile Banner"
-    width="100%"
-  />
-</p>
+<div align="center"><img src="./assets/github-profile-banner.png" alt="Developer Profile Banner" width="100%"/><img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:075985,70:0369A1,100:06B6D4&height=90&section=header" alt="Banner Wave" width="100%"/></div>
 
 
-<!-- =========================
-          LIVE MESSAGE
-========================= -->
+<!-- =========================================================
+                       LIVE MESSAGE
+========================================================= -->
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+practical+solutions+with+code+and+AI.;Learning.+Building.+Experimenting.+Improving.;Turning+ideas+into+useful+real-world+projects."
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1100&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+practical+solutions+with+code+and+AI.;Learning.+Building.+Experimenting.+Improving.;Turning+ideas+into+useful+real-world+projects."
       alt="Typing Animation"
     />
   </a>
 </p>
 
 
-<!-- =========================
-          QUICK LINKS
-========================= -->
+<!-- =========================================================
+                       QUICK LINKS
+========================================================= -->
 
 <p align="center">
 
 <a href="mailto:woazkurunijoy@gmail.com">
   <img
-    src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Email"
   />
 </a>
 
 <a href="https://www.linkedin.com/" target="_blank">
   <img
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
 </a>
 
 <a href="https://github.com/woazkuruni" target="_blank">
   <img
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
     alt="GitHub"
   />
 </a>
 
 <img
-  src="https://komarev.com/ghpvc/?username=woazkuruni&label=Profile%20Views&color=0891b2&style=for-the-badge"
+  src="https://komarev.com/ghpvc/?username=woazkuruni&label=PROFILE%20VIEWS&color=0891b2&style=for-the-badge"
   alt="Profile Views"
 />
 
@@ -70,7 +65,7 @@
 ---
 
 <!-- =========================================================
-                         ABOUT
+                          ABOUT ME
 ========================================================= -->
 
 ## 👨‍💻 About Me
@@ -78,19 +73,19 @@
 <table>
 <tr>
 
-<td width="65%" valign="top">
+<td width="66%" valign="top">
 
-I enjoy building **practical web applications and intelligent systems** that connect software development with modern AI techniques.
+I enjoy creating **practical web applications and intelligent systems** by combining software development with modern Artificial Intelligence techniques.
 
-My main focus is on developing solutions with **Python and Django**, while continuously exploring **Machine Learning, Deep Learning, and Computer Vision**.
+My current work focuses mainly on **Python, Django, Machine Learning, Deep Learning, and Computer Vision**.
 
-I am especially interested in projects where technology can solve meaningful real-world problems — from intelligent web systems to AI-powered applications.
+I am especially interested in building systems where AI can solve meaningful real-world problems — from intelligent web applications to image-based decision-support systems.
 
 <br>
 
 ```python
 developer = {
-    "focus": "Practical Software + Artificial Intelligence",
+    "focus": "Software Development + Applied AI",
 
     "building_with": [
         "Python",
@@ -111,18 +106,25 @@ developer = {
 </td>
 
 
-<td width="35%" valign="top">
+<td width="34%" valign="top">
 
 ### ⚡ Current Direction
 
-- 🌐 Intelligent Web Applications
-- 🤖 Applied Machine Learning
-- 🧠 Deep Learning
-- 👁️ Computer Vision
-- 🌾 AI for Agriculture
-- 🔍 Model Interpretability
-- 💡 Real-world Problem Solving
-- 🚀 Continuous Project Building
+🌐 Intelligent Web Applications
+
+🤖 Applied Machine Learning
+
+🧠 Deep Learning
+
+👁️ Computer Vision
+
+🌾 AI for Agriculture
+
+🔍 Model Interpretability
+
+💡 Problem Solving
+
+🚀 Project Development
 
 </td>
 
@@ -138,7 +140,6 @@ developer = {
 
 ## 🚀 Featured Project
 
-
 <table>
 <tr>
 
@@ -148,48 +149,53 @@ developer = {
 
 ### 🌿 Green-Eye
 
-**AI-Powered Rice Leaf Disease Detection & Farmer Assistance Platform**
+#### AI-Powered Rice Leaf Disease Detection & Farmer Assistance Platform
 
 <br>
 
 <img
   src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"
+  alt="Python"
 />
 
 <img
   src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"
+  alt="Django"
 />
 
 <img
   src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"
+  alt="PyTorch"
 />
 
 <img
   src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white"
+  alt="Computer Vision"
 />
 
 <img
   src="https://img.shields.io/badge/Vision%20Transformer-7C3AED?style=flat-square"
+  alt="Vision Transformer"
 />
 
 </div>
 
 <br>
 
-**Green-Eye** is an intelligent agricultural system designed to detect rice leaf diseases from images and provide useful assistance to farmers through an AI-powered web platform.
+**Green-Eye** is an intelligent agricultural platform designed to identify rice leaf diseases from images and provide useful assistance through an AI-powered web application.
 
-### ✨ Highlights
+### ✨ Key Features
 
-- 🌾 Rice leaf disease classification
-- 🧠 Lightweight Vision Transformer architecture
-- 🔍 Attention-based model interpretability
-- 🤖 AI-powered farmer assistance
-- 🌐 Django-based web interface
-- 🇧🇩 Bengali-friendly support
-- 📷 Image-based disease analysis
-- 💡 Practical agricultural decision support
+- 🌾 **Rice leaf disease classification**
+- 🧠 **Lightweight Vision Transformer architecture**
+- 🔍 **Attention-based model interpretability**
+- 🤖 **AI-powered farmer assistance**
+- 🌐 **Django-based web application**
+- 🇧🇩 **Bengali-friendly user support**
+- 📷 **Image-based disease analysis**
+- 💡 **Agricultural decision support**
 
-> **Purpose:** Make AI-assisted crop disease detection more accessible and useful in real-world agricultural environments.
+> 🎯 **Purpose:** Make AI-assisted crop disease detection more accessible and useful in practical agricultural environments.
 
 </td>
 
@@ -200,16 +206,15 @@ developer = {
 ---
 
 <!-- =========================================================
-                        TECH STACK
+                       TECHNOLOGY STACK
 ========================================================= -->
 
 ## 🛠️ Technology Stack
 
-
 <div align="center">
 
 
-### Languages
+### 👨‍💻 Languages
 
 <img
   src="https://skillicons.dev/icons?i=python,c,cpp,java,php&theme=dark"
@@ -220,54 +225,57 @@ developer = {
 <br><br>
 
 
-### Web & Backend
+### 🌐 Web & Backend
 
 <img
   src="https://skillicons.dev/icons?i=django,html,css,bootstrap&theme=dark"
-  alt="Web Technologies"
+  alt="Web Development"
 />
 
 
 <br><br>
 
 
-### AI & Computer Vision
+### 🤖 AI & Computer Vision
 
 <img
   src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark"
-  alt="AI Tools"
+  alt="AI and Computer Vision"
 />
 
 <br><br>
 
 <img
   src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"
+  alt="Machine Learning"
 />
 
 <img
   src="https://img.shields.io/badge/Deep%20Learning-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"
+  alt="Deep Learning"
 />
 
 <img
   src="https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8"
+  alt="Computer Vision"
 />
 
 
 <br><br>
 
 
-### Database & Development
+### 🗄️ Database & Development
 
 <img
   src="https://skillicons.dev/icons?i=mysql,git,github,linux,vscode&theme=dark"
-  alt="Development Tools"
+  alt="Database and Development Tools"
 />
 
 
 <br><br>
 
 
-### Additional Tools
+### 🎨 Additional Tools
 
 <img
   src="https://skillicons.dev/icons?i=arduino,photoshop,illustrator&theme=dark"
@@ -288,23 +296,22 @@ developer = {
 ---
 
 <!-- =========================================================
-                    GITHUB ANALYTICS
+                       GITHUB ANALYTICS
 ========================================================= -->
 
 ## 📊 GitHub Analytics
 
-
 <p align="center">
 
 <img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=woazkuruni&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&rank_icon=github&include_all_commits=true"
+  width="48%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=woazkuruni&theme=github_dark"
   alt="GitHub Statistics"
 />
 
 <img
-  width="49%"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=woazkuruni&theme=github-dark-blue&hide_border=true&border_radius=12"
+  width="48%"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=woazkuruni&theme=github-dark-blue&hide_border=true"
   alt="GitHub Streak"
 />
 
@@ -314,9 +321,15 @@ developer = {
 <p align="center">
 
 <img
-  width="46%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=woazkuruni&layout=compact&theme=github_dark&hide_border=true&border_radius=12&langs_count=8"
-  alt="Top Languages"
+  width="48%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=woazkuruni&theme=github_dark"
+  alt="Languages by Repository"
+/>
+
+<img
+  width="48%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=woazkuruni&theme=github_dark"
+  alt="Most Commit Language"
 />
 
 </p>
@@ -325,18 +338,17 @@ developer = {
 ---
 
 <!-- =========================================================
-                   CONTRIBUTION GRAPH
+                    CONTRIBUTION ACTIVITY
 ========================================================= -->
 
 ## 📈 Contribution Activity
 
-
 <p align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=woazkuruni&bg_color=0d1117&color=7dd3fc&line=06b6d4&point=ffffff&area=true&area_color=0369a1&hide_border=true"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=woazkuruni&theme=github_dark"
   width="100%"
-  alt="Contribution Activity"
+  alt="GitHub Contribution Activity"
 />
 
 </p>
@@ -345,79 +357,42 @@ developer = {
 ---
 
 <!-- =========================================================
-                       PHILOSOPHY
+                         PHILOSOPHY
 ========================================================= -->
 
 <div align="center">
 
-## 💡 `Build • Learn • Experiment • Improve`
+### 💡 `Build • Learn • Experiment • Improve`
 
 <i>
-I believe the best way to understand technology<br>
-is to build something meaningful with it.
+Turning curiosity into code and ideas into practical solutions.
 </i>
 
-</div>
+<br><br>
 
+<img
+  src="https://img.shields.io/badge/KEEP%20LEARNING-0F172A?style=for-the-badge&logo=bookstack&logoColor=38BDF8"
+  alt="Keep Learning"
+/>
 
-<br>
+<img
+  src="https://img.shields.io/badge/KEEP%20BUILDING-0F172A?style=for-the-badge&logo=rocket&logoColor=22D3EE"
+  alt="Keep Building"
+/>
 
----
+<img
+  src="https://img.shields.io/badge/KEEP%20EXPLORING-0F172A?style=for-the-badge&logo=target&logoColor=A78BFA"
+  alt="Keep Exploring"
+/>
 
-<!-- =========================================================
-                       CONTACT
-========================================================= -->
-
-## 🤝 Let's Connect
-
-
-<p align="center">
-
-<a href="mailto:woazkurunijoy@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-woazkurunijoy%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
-
-<a href="https://www.linkedin.com/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-<a href="https://github.com/woazkuruni" target="_blank">
-  <img
-    src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
-</p>
-
-
-<br>
-
-
-<!-- =========================================================
-                         FOOTER
-========================================================= -->
-
-<p align="center">
+<br><br>
 
 <i>
 Thanks for stopping by — feel free to explore my repositories and projects.
 </i>
 
-</p>
+<br><br>
 
+⭐
 
-<br>
-
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:075985,75:0369A1,100:06B6D4&height=120&section=footer"
-  width="100%"
-  alt="Footer"
-/>
+</div>
